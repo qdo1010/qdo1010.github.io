@@ -1,8 +1,8 @@
 ---
 layout: profiles
-permalink: /people/
+permalink: /collaborators/
 title: collaborators
-description: profile of collaborators
+description: profiles of collaborators
 nav: true
 nav_order: 7
 
