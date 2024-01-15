@@ -2,8 +2,8 @@
 layout: page
 title: farm2table tomato 
 description: when things I grew outgrew me 
-img: assets/img/t1.jpg
-importance: 1
+img: assets/img/t0.jpg
+importance: 4
 category: work
 related_publications: true
 ---
@@ -18,12 +18,12 @@ To give your project a background in the portfolio page, just add the img tag to
     layout: page
     title: project
     description: a project with a background image
-    img: /assets/img/t1.jpg
+    img: /assets/img/t0.jpg
     ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/t1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/t0.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/t2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
