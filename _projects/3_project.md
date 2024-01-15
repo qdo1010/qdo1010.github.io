@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Miralens
+description: a high-speed full-color projector and holographic volumetric display
+img: assets/img/miralens2.jpg
+redirect: https://www.youtube.com/watch?app=desktop&v=YgkRYBatYy4
 importance: 3
 category: work
 ---

@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
+title: webshooter
+description: 
+img: assets/img/wsh.jpg
 importance: 3
 category: fun
+redirect: https://www.youtube.com/watch?v=RKBdART3Xv8
 ---
 
 Every project has a beautiful feature showcase page.

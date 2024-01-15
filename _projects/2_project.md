@@ -1,11 +1,12 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: WHAM (Wearable Home Activity Monitor)
+description: a telehealth wearable for remote monitoring and diagnosis of cerebral palsy  
+img: assets/img/wham.jpg
 importance: 2
 category: work
 giscus_comments: true
+redirect: https://www.youtube.com/watch?v=Vej0Rodui9E
 ---
 
 Every project has a beautiful feature showcase page.
@@ -18,7 +19,7 @@ To give your project a background in the portfolio page, just add the img tag to
     layout: page
     title: project
     description: a project with a background image
-    img: /assets/img/12.jpg
+    img: /assets/img/wham.jpg
     ---
 
 <div class="row">
