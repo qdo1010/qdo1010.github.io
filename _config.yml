@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Quan
+first_name: Quan Do
 middle_name: 
-last_name: Do
+last_name: 
 email: qdo@bu.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
@@ -68,7 +68,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # -----------------------------------------------------------------------------
 
 github_username: qdo1010 # your GitHub user name
-gitlab_username: qdo1010 # your GitLab user name
+gitlab_username:  # your GitLab user name
 x_username: qd31415 # your X handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: quan-do-30076662 # your LinkedIn user name
