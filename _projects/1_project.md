@@ -4,7 +4,7 @@ title: farm2table tomato
 description: when things I grew outgrew me 
 img: assets/img/t0.jpg
 importance: 4
-category: work
+category: fun
 related_publications: true
 ---
 

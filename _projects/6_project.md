@@ -4,7 +4,7 @@ title: BeetleBot
 description: a cute little battle bot
 img: assets/img/bbb.jpg
 importance: 6
-category: work
+category: fun
 related_publications: true
 redirect: https://www.youtube.com/watch?v=Kwbr2U1_Gy0
 ---
