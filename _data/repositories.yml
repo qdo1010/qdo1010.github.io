@@ -1,12 +1,13 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - qdo1010
+  - RatAcad
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - qdo1010/coindm
+  - qdo1010/PiNet
+  - qdo1010/chATbandsDetection
+  - qdo1010/VR_Monitoring_Website
+  - qdo1010/Lobster
+  - RatAcad/dj_ratacad
+  - RatAcad/Bpod_Gen2
+  - RatAcad/Bpod_Gen2_Legacy
