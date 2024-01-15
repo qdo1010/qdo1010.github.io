@@ -123,8 +123,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: wondering & wandering # blog_name will be displayed in your blog page
-blog_description: a simple site 
+blog_name: wandering & wondering # blog_name will be displayed in your blog page
+blog_description: with words yet to be written 
 permalink: /blog/:year/:title/
 
 # Pagination
