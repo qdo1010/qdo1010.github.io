@@ -17,6 +17,6 @@ Struggling to write even the first few words for this because this site should n
 I always find comfort in words placed here. If writing is anything like music composition, then these words are both tension and release. 
 {% endquote %}
 
-And if struggling is the first word that starts it all, what is the best word to signify the end.
+And if struggling is the first word that starts this post, what is the best word to indicate the end.
 
 
