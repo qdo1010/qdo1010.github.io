@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Words yet to be written
+title: words yet to be written
 date: 2024-01-15
 description: first post
 tags: first blog
 categories: generic-posts
-giscus_comments: true
+giscus_comments: false
 related_posts: false
-related_publications: true
+related_publications: false
 featured: true
 ---
 
