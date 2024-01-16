@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.bu.edu/neuro/academics/graduate/'>GPN</a>, <a href='https://www.bu.edu/csn/'>CSN</a>, <a href='https://www.bu.edu/hasselmo/'>Hasselmo Lab</a>, <a href='https://www.scottcognitionlab.com/'>Scott Lab</a>.
+subtitle: Boston University, <a href='https://www.bu.edu/neuro/academics/graduate/'>GPN</a>, <a href='https://www.bu.edu/csn/'>CSN</a>, <a href='https://www.bu.edu/hasselmo/'>Hasselmo Lab</a>, <a href='https://www.scottcognitionlab.com/'>Scott Lab</a>.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Boston University</p>
+    <p>Logan Airport</p>
     <p>Boston, MA</p>
 
 news: true # includes a list of news items
