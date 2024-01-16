@@ -1,7 +1,7 @@
 ---
 layout: page
 title: WHAM
-description: a telehealth wearable for remote monitoring and diagnosis of cerebral palsy  
+description: a telehealth wearable for remote tracking and monitoring of cerebral palsy symptoms  
 img: assets/img/wham.jpg
 importance: 3
 category: work
