@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: Eviaco
+description: a game inspired by a rodent operant task to assess rule learning and evidence accumulation in humans
 img: assets/img/mcs.jpg
-importance: 3
-category: fun
+importance: 1
+category: work
 ---
 
 Every project has a beautiful feature showcase page.

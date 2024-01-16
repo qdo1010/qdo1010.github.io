@@ -1,9 +1,9 @@
 ---
 layout: page
-title: WHAM (Wearable Home Activity Monitor)
+title: WHAM
 description: a telehealth wearable for remote monitoring and diagnosis of cerebral palsy  
 img: assets/img/wham.jpg
-importance: 2
+importance: 3
 category: work
 giscus_comments: true
 redirect: https://www.youtube.com/watch?v=Vej0Rodui9E
