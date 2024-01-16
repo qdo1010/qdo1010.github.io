@@ -1,7 +1,7 @@
 ---
 layout: page
 title: webshooter
-description: 
+description: An electromagnetic accelerator. If only it spins and shoots spider silk :(   
 img: assets/img/web.jpg
 importance: 3
 category: fun

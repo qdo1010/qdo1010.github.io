@@ -1,7 +1,7 @@
 ---
 layout: page
 title: BeetleBot
-description: a cute little battle bot
+description: a cute little battle bot that could
 img: assets/img/bbb.jpg
 importance: 6
 category: fun
