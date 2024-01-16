@@ -2,7 +2,7 @@
 layout: page
 title: Eviaco
 description: a game inspired by a rodent operant task to assess rule learning and evidence accumulation in humans
-img: assets/img/mcs.jpg
+img: assets/img/evi.jpg
 importance: 1
 category: work
 ---
@@ -17,7 +17,7 @@ To give your project a background in the portfolio page, just add the img tag to
     layout: page
     title: project
     description: a project with a background image
-    img: /assets/img/12.jpg
+    img: /assets/img/evi.jpg
     ---
 
 <div class="row">

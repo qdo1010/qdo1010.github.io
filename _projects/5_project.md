@@ -2,7 +2,7 @@
 layout: page
 title: webshooter
 description: 
-img: assets/img/wsh.jpg
+img: assets/img/web.jpg
 importance: 3
 category: fun
 redirect: https://www.youtube.com/watch?v=RKBdART3Xv8
@@ -18,7 +18,7 @@ To give your project a background in the portfolio page, just add the img tag to
     layout: page
     title: project
     description: a project with a background image
-    img: /assets/img/12.jpg
+    img: /assets/img/web.jpg
     ---
 
 <div class="row">
