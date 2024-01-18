@@ -2,8 +2,8 @@
 layout: post
 title: words yet to be written
 date: 2024-01-15
-description: first post
-tags: first blog
+description: first of many to come
+tags: words, written
 categories: generic-posts
 giscus_comments: false
 related_posts: false
