@@ -54,7 +54,7 @@
         "Full Stack Development",
         "Computer Networking",
       ]
-    }
+    },
     {
       "name": "Electrical Engineering",
       "level": "Master",
@@ -65,7 +65,7 @@
         "Electromagnetism",
         "Signal Processing",
       ]
-    }
+    },
     {
       "name": "Neuroscience",
       "level": "Master",
@@ -78,7 +78,7 @@
         "Virus Injection",
         "Optogenetics",
       ]
-    }
+    },
     {
       "name": "Data Science",
       "level": "Master",
