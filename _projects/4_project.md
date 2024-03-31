@@ -5,6 +5,7 @@ description: a game inspired by a rodent operant task to assess rule learning an
 img: assets/img/evi.jpg
 importance: 1
 category: work
+redirect: https://journals.physiology.org/doi/full/10.1152/jn.00124.2022
 ---
 
 Every story has a beginning whether it's good or bad.  
