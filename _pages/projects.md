@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: The things that I treasure most here are things I did not do myself. I absolutely hate sharing things with random strangers, but now that this page exists for various reasons, please let it be me reminiscing you whom I am fortunate enough to meet and do fun projects with, if your browsing happen to take you to this site and you are now reading this long and awkward description.     
+description: Thanks for reading this, if your browsing happen to take you to this site.     
 nav: true
 nav_order: 3
 display_categories: [work, fun]
