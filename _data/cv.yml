@@ -38,3 +38,27 @@
     - title: Research Assistant
       institution: ALERT and Gorden-CenSSIS Research Program, Northeastern University, Boston, MA
       year: 2014 - 2015
+
+- title: Work Experience
+  type: time_table
+  contents:
+    - title: Software Intern - Autonomous Vehicles Simulation 
+      institution: NVIDIA Corporations, Santa Clara, CA
+      year: 2018 
+    - title: Product Infrastructure Software Intern 
+      institution: NVIDIA Corporations, Santa Clara, CA
+      year: 2016 
+    
+- title: Teaching Experience
+  type: time_table
+  contents:
+    - title: Teaching Assistant 
+      institution: Northeastern University, Boston, MA
+      year: 2018 
+    - title: Technical Workshop Coordinator
+      institution: IEEE Student Organization, Northeastern University, Boston, MA
+      year: 2016 - 2018
+    - title: Teaching Assistant
+      institution: Northeastern University, Boston, MA
+      year: 2015 - 2016 
+    
