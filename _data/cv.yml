@@ -11,12 +11,30 @@
   contents:
     - title: PhD Candidate
       institution: Boston University, Boston, MA
-      year: 2019 - Now 
-      major: Computational Neuroscience
+      year: Now 
+      description: 
+        - Computational Neuroscience, Graduate Program for Neuroscience
     - title: Bachelor of Science
       institution: Northeatern University, Boston, MA
       year: 2019
-      major: Electrical Engineering
-      minor: Physics
+      description: 
+        - Electrical Engineering Major, Physics Minor
 
-
+- title: Research Experience
+  type: time_table
+  contents:
+    - title: Research Assistant
+      institution: Biomimetic Underwater Robot Program, Northeastern University, Boston, MA
+      year: 2017 - 2019
+    - title: Research Assistant
+      institution: ReGame VR (Rehabilitation Games & Virtual Reality) Lab, Northeastern University, Boston, MA
+      year: 2015 - 2018
+    - title: Machine Learning Research Intern
+      institution: NERF (Neuro-Electronics Research Flanders), Leuven, Belgium
+      year: 2017
+    - title: Research Assistant
+      institution: SMILE (Synergetic Media Learning) Lab, Northeastern University, Boston, MA
+      year: 2015 - 2017     
+    - title: Research Assistant
+      institution: ALERT and Gorden-CenSSIS Research Program, Northeastern University, Boston, MA
+      year: 2014 - 2015
