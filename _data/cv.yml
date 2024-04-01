@@ -67,4 +67,42 @@
     - title: Teaching Assistant
       institution: Northeastern University, Boston, MA
       year: 2015 - 2016 
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2018
+      items:
+        - Kenneth Richardson Merit Scholarship, Northeastern University 
+    - year: 2017
+      items:
+        - Marine Science Center Summer Scholarship, Northeastern University 
+        - Presidential Global Scholarship,  Northeastern University 
+        - College of Engineering Hallemeier Funds Legacy Scholarship
+    - year: 2016
+      items:
+        - Outstanding Student Research Award for Engineering & Technology, RISE 2016
+        - Honors Summer Dialogue, Science and Culture through the Ages
+    - year: 2015
+      items:
+        - Honors Summer Research Assistantship, Northeastern University
+    - year: 2014
+      items:
+        - Excellence Scholarship, Northeastern University
+        - Honors Program, Northeastern University
+- title: Research Interests
+  type: nested_list
+  contents:
+    - title: Neuroscience & Cognitive Science
+      items:
+        - Inductive Bias
+        - Computational Noise 
+        - Gain Modulation
+        - Phase Modulation
+        - Norepinephrine
+        - REM and Replay
+    - title: Machine Learning & Artificial Intelligence
+      items:
+        - Description 1.
+        - Description 2.
     
