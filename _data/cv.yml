@@ -1,15 +1,22 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
+    - name: Name
       value: Quan Do
-
+    - name: Email
+      value: qdo@bu.edu
 
 - title: Education
   type: time_table
   contents:
     - title: PhD Candidate
       institution: Boston University, Boston, MA
+      year: 2019 - Now 
+      major: Computational Neuroscience
+    - title: Bachelor of Science
+      institution: Northeatern University, Boston, MA
       year: 2019
+      major: Electrical Engineering
+      minor: Physics
 
 
