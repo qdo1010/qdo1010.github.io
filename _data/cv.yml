@@ -100,9 +100,12 @@
         - Gain Modulation
         - Phase Modulation
         - Norepinephrine
-        - REM and Replay
+        - REM, NREM and Replay
+        - Evidence Accumulation
+        - Time Estimation
+        - Numerosity
     - title: Machine Learning & Artificial Intelligence
       items:
-        - Description 1.
-        - Description 2.
+        - Graph Neural Networks
+        - Program Synthesis
     
