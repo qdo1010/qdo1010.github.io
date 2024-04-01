@@ -4,7 +4,7 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 5
-description: a long and winding road..
+description: A Long and Winding Road
 toc:
   sidebar: left
 ---
