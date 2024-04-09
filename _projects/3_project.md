@@ -4,7 +4,7 @@ title: Miralens
 description: a high-speed full-color projector and holographic volumetric display
 img: assets/img/miralens2.jpg
 redirect: https://www.youtube.com/watch?app=desktop&v=YgkRYBatYy4
-importance: 1
+importance: 2
 category: fun
 ---
 
