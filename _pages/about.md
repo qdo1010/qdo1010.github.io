@@ -19,8 +19,10 @@ social: true # includes social icons at the bottom of the page
 
 
 Hi, this is a sentence with words in it. It was typed on a laptop and now it is written.  
+
 Not sure what else to write down yet...But should I keep writing down something just to fill the empty space? 
-What can I write about? And why is there a need to write something down now that the empty space is filled?
+
+What should I write about? And why is there a need to write something down now that the empty space is filled?
 
 Instead of words can I write with :no_mouth: :zipper_mouth_face: :shushing_face:?
 And instead of sentences and paragraphs and aims and goals, how else can I arrange my :thinking:?
